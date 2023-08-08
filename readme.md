@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
-- 💬 Ask me about **reactJS,nodeJS,express,MongoDB**
+- 💬 Ask me about **react,nodeJS,express,MongoDB**
 
 - 📫 How to reach me **rahulkhattri14@gmail.com**
 
